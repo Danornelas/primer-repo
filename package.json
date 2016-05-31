@@ -1,0 +1,19 @@
+{
+  "name": "primer-repo",
+  "version": "1.0.0",
+  "description": "mi primer repositorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danornelas/primer.repo.git"
+  },
+  "author": "Daniela Fernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Danornelas/primer.repo/issues"
+  },
+  "homepage": "https://github.com/Danornelas/primer.repo#readme"
+}
